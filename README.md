@@ -97,7 +97,12 @@ The dashboard is built using a structured data model:
 
 ## 📸 Screenshots
 
-*(Add your dashboard images here for better presentation)*
+<img width="1322" height="745" alt="image" src="https://github.com/user-attachments/assets/397e9009-640a-4713-ac23-4bcc513bd9ff" />
+<img width="1330" height="737" alt="image" src="https://github.com/user-attachments/assets/5ecd91d2-e3fa-461d-b9cf-47448c3325e6" />
+<img width="1328" height="740" alt="image" src="https://github.com/user-attachments/assets/45fc9842-ba7f-489c-a01d-67ba0efc70c2" />
+
+
+
 
 ---
 
